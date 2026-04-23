@@ -94,7 +94,7 @@ cd NASAExplorer
 open NASAExplorer.xcodeproj
 ```
 
-3. Selecciona un simulador (iOS 16+) y presioná **⌘R**
+3. Selecciona un simulador (iOS 16+) y presiona **⌘R**
 
 No se requiere configuración adicional. La NASA Image Library API no requiere API key.
 

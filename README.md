@@ -1,6 +1,6 @@
 # NASA Explorer 🚀
 
-App iOS que te permite explorar el archivo de imágenes de la NASA a través de una interfaz limpia con temática espacial. Buscá galaxias, nebulosas, planetas y mucho más usando la API pública de la NASA.
+App iOS que te permite explorar el archivo de imágenes de la NASA a través de una interfaz limpia con temática espacial. Busca galaxias, nebulosas, planetas y mucho más usando la API pública de la NASA.
 
 ---
 
@@ -83,18 +83,18 @@ No implementada ya que está fuera del alcance de este challenge. La implementac
 
 ## Cómo ejecutar
 
-1. Cloná el repositorio:
+1. Clona el repositorio:
 ```bash
 git clone https://github.com/jcreyesDev/NASAExplorer.git
 ```
 
-2. Abrí en Xcode:
+2. Abre en Xcode:
 ```bash
 cd NASAExplorer
 open NASAExplorer.xcodeproj
 ```
 
-3. Seleccioná un simulador (iOS 16+) y presioná **⌘R**
+3. Selecciona un simulador (iOS 16+) y presioná **⌘R**
 
 No se requiere configuración adicional. La NASA Image Library API no requiere API key.
 
@@ -102,7 +102,7 @@ No se requiere configuración adicional. La NASA Image Library API no requiere A
 
 ## Ejecutar tests
 
-Presioná **⌘U** en Xcode.
+Presiona **⌘U** en Xcode.
 
 ### Cobertura de tests
 
